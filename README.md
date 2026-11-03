@@ -4,7 +4,7 @@
 
 ### Describe the outcome. OYYO helps shape the work.
 
-**225 guided tasks · 25 goal templates · 200 specialist tasks · 12 creative styles**
+**1,025 guided tasks · 25 goal templates · 1,000 specialist tasks · 204 creative styles**
 
 **Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
 
@@ -44,9 +44,13 @@ This documentation lists the task names and expected outputs currently available
 | [Email sequence](tasks/goal-email.md) | Finished emails, subject variants, audience fit, sequence timing and review checklist |
 | [Brand direction](tasks/goal-brand.md) | Positioning, voice, visual principles, examples and reusable creative rules |
 
+## Independent catalog sync
+
+Task and creative-style content can be updated with **Task library → Sync catalog** in compatible workspace builds (Windows 0.1.15 onward). Validated content is cached locally; failure leaves the previous library intact. Subsequent content updates do not require a new app build. See [OYYO Catalogs](https://github.com/vpicciuolo/oyyo-catalogs). This sync currently covers tasks and styles, not executable tools, model binaries or new agent implementation.
+
 ## Specialist task directory
 
-Each of the [200 OYYO agents](https://github.com/vpicciuolo/oyyo-agents) has a corresponding role-specific task entry. Browse the [complete task index](docs/ALL-TASKS.md) for the exact workspace titles, departments and expected deliverables. These entries are role-scoped briefs, not 200 different model downloads.
+Each of the [200 OYYO agents](https://github.com/vpicciuolo/oyyo-agents) has an original role-specific task entry plus four focused lifecycle tasks. Browse the [complete task index](docs/ALL-TASKS.md) for the exact workspace titles, departments and expected deliverables. Browse the [800 expanded role-specific tasks](docs/EXPANDED-TASKS.md). These entries are role-scoped briefs, not model downloads.
 
 ## A simple brief
 
@@ -54,7 +58,7 @@ Tell OYYO the outcome, audience, source facts, constraints and desired format. F
 
 ## Creative styles
 
-[Explore all 12 style options](docs/CREATIVE-STYLES.md). Styles guide the creative brief; a style is not a generation model. Actual images/video require the corresponding available generation tool.
+[Explore all 204 style options](docs/CREATIVE-STYLES.md). Styles guide the creative brief; a style is not a generation model. Actual images/video require the corresponding available generation tool.
 
 ## Reuse your way of working
 
@@ -67,7 +71,7 @@ The workspace supports custom templates, profile preferences and selected teams/
 | [OYYO Models](https://github.com/vpicciuolo/oyyo-models) | Model lineup, specializations, requirements and capability guides |
 | [OYYO Agents](https://github.com/vpicciuolo/oyyo-agents) | All 200 workspace agent roles, department coverage and specialist functions |
 | [OYYO Teams](https://github.com/vpicciuolo/oyyo-teams) | Seven built-in workflow groups, collaboration, review and reusable configurations |
-| [OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library) | 225 guided tasks, specialist briefs and 12 creative style options |
+| [OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library) | 1,025 guided tasks, specialist briefs and 204 creative style options |
 | [OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark) | Evaluation methodology, qualification and reproducibility |
 | [OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk) | Developer interfaces and integration documentation |
 

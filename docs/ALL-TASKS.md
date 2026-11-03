@@ -1,6 +1,8 @@
 # All OYYO workspace tasks
 
-225 built-in entries: 25 goal templates and 200 role-specific tasks. These names match the documented workspace catalog.
+1,025 available entries: 25 goal templates and 1,000 role-specific tasks. These names match the documented workspace catalog.
+
+The [expanded task directory](EXPANDED-TASKS.md) lists the 800 added lifecycle briefs. The 25 goal templates and 200 original role briefs remain indexed below.
 
 ## Goal templates
 
