@@ -1,6 +1,6 @@
 # Expanded role-specific task directory
 
-800 additional tasks: scope/evidence, finished delivery, review and execution/handoff for each workspace role. Together with 25 goal templates and 200 original specialist briefs, the current library has **1,025 tasks**.
+800 additional tasks: scope/evidence, finished delivery, review and execution/handoff for each workspace role. Together with 25 goal templates and 200 original specialist briefs, the current library has **1,361 tasks**.
 
 ## Coordination
 

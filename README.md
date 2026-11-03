@@ -4,7 +4,7 @@
 
 ### Describe the outcome. OYYO helps shape the work.
 
-**1,025 guided tasks · 25 goal templates · 1,000 specialist tasks · 204 creative styles**
+**1,361 guided tasks · 25 goal templates · 1,336 specialist tasks · 204 creative styles**
 
 **Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
 
@@ -46,11 +46,11 @@ This documentation lists the task names and expected outputs currently available
 
 ## Independent catalog sync
 
-Task and creative-style content can be updated with **Task library → Sync catalog** in compatible workspace builds (Windows 0.1.15 onward). Validated content is cached locally; failure leaves the previous library intact. Subsequent content updates do not require a new app build. See [OYYO Catalogs](https://github.com/vpicciuolo/oyyo-catalogs). This sync currently covers tasks and styles, not executable tools, model binaries or new agent implementation.
+Task and creative-style content can be updated with **Task library → Sync catalog** in compatible workspace builds (Windows 0.1.16 onward for role/team sync). Validated content is cached locally; failure leaves the previous library intact. Subsequent content updates do not require a new app build. See [OYYO Catalogs](https://github.com/vpicciuolo/oyyo-catalogs). This sync covers tasks, styles, role definitions and team presets, not executable tools or model binaries.
 
 ## Specialist task directory
 
-Each of the [200 OYYO agents](https://github.com/vpicciuolo/oyyo-agents) has an original role-specific task entry plus four focused lifecycle tasks. Browse the [complete task index](docs/ALL-TASKS.md) for the exact workspace titles, departments and expected deliverables. Browse the [800 expanded role-specific tasks](docs/EXPANDED-TASKS.md). These entries are role-scoped briefs, not model downloads.
+The [536 OYYO agents](https://github.com/vpicciuolo/oyyo-agents) has an original role-specific task entry plus four focused lifecycle tasks. Browse the [complete task index](docs/ALL-TASKS.md) for the exact workspace titles, departments and expected deliverables. Browse the [800 expanded role-specific tasks](docs/EXPANDED-TASKS.md). These entries are role-scoped briefs, not model downloads.
 
 ## A simple brief
 
@@ -69,9 +69,9 @@ The workspace supports custom templates, profile preferences and selected teams/
 | Repository | Discover |
 | --- | --- |
 | [OYYO Models](https://github.com/vpicciuolo/oyyo-models) | Model lineup, specializations, requirements and capability guides |
-| [OYYO Agents](https://github.com/vpicciuolo/oyyo-agents) | All 200 workspace agent roles, department coverage and specialist functions |
+| [OYYO Agents](https://github.com/vpicciuolo/oyyo-agents) | All 536 workspace agent roles, department coverage and specialist functions |
 | [OYYO Teams](https://github.com/vpicciuolo/oyyo-teams) | Seven built-in workflow groups, collaboration, review and reusable configurations |
-| [OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library) | 1,025 guided tasks, specialist briefs and 204 creative style options |
+| [OYYO Task Library](https://github.com/vpicciuolo/oyyo-task-library) | 1,361 guided tasks, specialist briefs and 204 creative style options |
 | [OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark) | Evaluation methodology, qualification and reproducibility |
 | [OYYO SDK](https://github.com/vpicciuolo/oyyo-sdk) | Developer interfaces and integration documentation |
 
@@ -82,3 +82,8 @@ OYYO is a proprietary AI workspace combining task understanding, model routing, 
 **Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
 
 **Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.**
+
+## Main OYYO documentation
+
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
+
